@@ -7,4 +7,15 @@ Git commit -> Comenta la version
 Git merge -> fusiona dos ramas 
 git checkout "rama"-> cambiar rama 
 git branch "rama" -> crear rama
-  
+git pull origin master --allow-unrelated-histories Unir remoto y local en GitHub
+git log -> Ver los logs de commits que se han hecho
+
+Crear llave publicca y private
+
+ssh-keygen -t rsa -b  4096 -C "05rosa04@gmail.com" -> Crear llave
+ssh-add ~/.ssh/id_rsa -> Agregar llave privada
+eval $(ssh-agent -s) -> Verificar que el SSH agente este activo 
+ 
+MAC 
+
+ eval "$(ssh-agent -s)" -> Verificar que el SSH agente este activo 
