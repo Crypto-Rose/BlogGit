@@ -1,6 +1,13 @@
 body {
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     color: #fff;
     background: #000;
+    font-family: monospace;
+}
+
+.header {
+    border-bottom: 1px solid #ff54fd;
+    padding: 10px;
+    margin-bottom: 5%;
 }
