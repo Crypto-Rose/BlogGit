@@ -1,3 +1,10 @@
 Holi! 
 I'm Rose :3
 My life
+
+Git add -> Agregar datos
+Git commit -> Comenta la version 
+Git merge -> fusiona dos ramas 
+git checkout "rama"-> cambiar rama 
+git branch "rama" -> crear rama
+  
