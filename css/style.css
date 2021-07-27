@@ -3,9 +3,6 @@ body {
     font-size: 20px;
     color: #fff;
     background: #000;
-<<<<<<< HEAD
-    
-=======
     font-family: monospace;
 }
 
@@ -13,5 +10,4 @@ body {
     border-bottom: 1px solid #ff54fd;
     padding: 10px;
     margin-bottom: 5%;
->>>>>>> develop
 }
