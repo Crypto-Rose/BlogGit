@@ -9,7 +9,20 @@ git checkout "rama"-> cambiar rama
 git branch "rama" -> crear rama
 git pull origin master --allow-unrelated-histories Unir remoto y local en GitHub
 git log -> Ver los logs de commits que se han hecho
+git log --all
+git log -all --graph --decotate -oneline
+git alias arbolito= "code"
 
+Los tags son buenos para saber en que version voy
+ git tag -a v0.1 -m "Result the first class" 5f81d67 //Creas un tag
+ git tab //Ves los tag 
+ git show-ref --tags //Ves los tags de cada commit 
+ git push origin --tags //Subir los tags al repo
+ git tag -d name_tag //Borrar tag
+ git push origin :refs/tags/name_tag //Borrar referencia en repo
+
+ git show-branch --all //Ver las ramas que existen y su historia 
+gitk //Abre la historia en software visual
 Crear llave publica y private
 #Create pulic and private key
 
