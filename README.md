@@ -1,4 +1,4 @@
-# BlogGit :tw-1f496:
+# BlogGit 🌹
 > código de ejemplo para practicar los comandos de Git y Github 
 
 #### Esto es un ejemplo de README.md ya que sigo aprendiendo cada dia aunque me inunda todo mi ser el desear ver series hasta que me sienta inutil y me defraude a mi misma por seguir realizando acciones tan toxicas.
