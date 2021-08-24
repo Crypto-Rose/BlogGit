@@ -6,8 +6,9 @@
 
 > Es solo un pequeño problema de dramatismo blanco a los 19 años y espero que pase pronto para dedicar mis dias a convertir este platanal en algo hermoso.
 
-- Es potente
-- Me gusta
+- Is very powerful
+- I like it
+- It was created by Increible Rose
 
 ------------
 
