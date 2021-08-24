@@ -9,7 +9,7 @@
 - Is very powerful
 - I like it
 - It was created by Increible Rose
-
+* Also practice English when learning in Git
 ------------
 
     let initial=0;
