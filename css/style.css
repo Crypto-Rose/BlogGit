@@ -19,6 +19,7 @@ body {
     height: 5%;
     border-top: 1px dashed #8354ff;
     padding: 10px;
+    background-color: #000;
 }
 
 .footer p {
